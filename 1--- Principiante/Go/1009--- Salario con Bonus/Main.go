@@ -10,5 +10,5 @@ func main(){
 	fmt.Scan(&salario)
 	fmt.Scan(&venta)
 	salarioConBonus:= salario+(venta*0.15)
-	fmt.Printf("TOTAL = R$ %.2F\n", salarioConBonus)
+	fmt.Printf("TOTAL = R$ %.2f\n", salarioConBonus)
 }
