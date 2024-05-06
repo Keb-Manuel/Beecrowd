@@ -9,4 +9,4 @@ public class Main {
         resultado = gasolina / kilometro;
         System.out.println(String.format("%.3f", resultado) + " km/l"); 
     }
-}
+} 

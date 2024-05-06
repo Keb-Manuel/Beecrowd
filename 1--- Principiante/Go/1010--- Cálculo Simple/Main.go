@@ -13,4 +13,4 @@ func main(){
 	fmt.Scan(&f)
 	totalPagar:= (b*c)+(e*f)
 	fmt.Printf("VALOR A PAGAR: R$ %.2f\n", totalPagar)
-}
+} 
